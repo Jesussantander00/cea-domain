@@ -1,0 +1,12 @@
+# Archivos de compilación y temporales de Maven
+target/
+*.log
+
+# Archivos de configuración del IDE
+*.iml
+.idea/
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
